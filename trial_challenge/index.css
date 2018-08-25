@@ -1,0 +1,12 @@
+.heading {
+	background-color: turquoise;
+	margin: 0px;
+	padding: 20px;
+	font: 25px Bold;
+	font-family: 'Cantora One', sans-serif;
+}
+
+body {
+	margin: 0;
+	background-image: url("blackbg.jpg")
+}
