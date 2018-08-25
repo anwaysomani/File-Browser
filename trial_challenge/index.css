@@ -10,3 +10,14 @@ body {
 	margin: 0;
 	background-image: url("blackbg.jpg")
 }
+
+hr {
+	color: green;
+	width: 95%;
+}
+
+.plain-box {
+	background-color: yellow;
+	margin: 0px;
+	padding: 10px;
+}
